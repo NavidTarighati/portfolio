@@ -17,4 +17,4 @@ The visualization takes place in Power BI with 3 interactive dashboards for Sale
 ![Product Details](./screenshots/product-details.png)  
 ![Customer Details](./screenshots/customer-details.png)
 
-**🔗 Download PBIX**: [Sales Dashboard.pbix](./Sales-Dashboard-AW2022/Sales-Dashboard.pbix)
+**🔗 Download PBIX**: [Sales Dashboard.pbix](./pbix/Sales Dashboard.pbix)
