@@ -29,5 +29,4 @@ Offering a dashboard for the Customer Support Operations to help understand the 
 [Call Center Dashboard](./screenshots/Call_Center.png)
 
 **🔗 Download PBIX**: [Call-Center-dashboard.pbix](./pbix/Call_Center_Dashboard.pbix)
-pbix/Call_Center_Dashboard.pbix
 
