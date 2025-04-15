@@ -13,7 +13,8 @@ Following this step, a view is created to use for visualization.
 The visualization takes place in Power BI with 3 interactive dashboards for Sales Overview, Customer Details and Product Details.
 
 **📷 Preview**:  
-![Sales Overview](./screenshots/sales-overview.png)
-![Product Details](screenshots/Product Details.png).
-![Customer Details](screenshots/Customer Details.png).
+![Sales Overview](./screenshots/sales-overview.png)  
+![Product Details](./screenshots/product-details.png)  
+![Customer Details](./screenshots/customer-details.png)
+
 **🔗 Download PBIX**: [Sales Dashboard.pbix](./Sales-Dashboard-AW2022/Sales-Dashboard.pbix)
