@@ -18,6 +18,7 @@ The visualization takes place in Power BI with 3 interactive dashboards for Sale
 [Customer Details](./screenshots/customer-details.png)
 
 **🔗 Download PBIX**: [sales-dashboard.pbix](./pbix/sales-dashboard.pbix)
+**🔗 Download SQL**: [sales-analysis.sql](./SQL/analysis.sql)
 
 ## 📊 Call Center Dashboard
 
