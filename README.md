@@ -42,3 +42,13 @@ The insights were synthesized into a structured report highlighting patterns in 
 
 **🔗 Download Report**:  [Insights and actions.pdf](./reports/Insights%20and%20actions.pdf) <br>
 **🔗 Download SQL**: [movie_rentals_analysis.sql](./SQL/movie_rentals_analysis.sql)
+
+## 📊 Customer Segmentation with K-Means – Online Retail II Dataset
+
+**Tools**: Python (Pandas, Scikit-Learn, Seaborn, Matplotlib), Jupyter Notebook 
+**Description**: Performed end-to-end customer segmentation using the Online Retail II dataset to identify behavioral clusters based on Recency, Frequency, and Monetary (RFM) values.
+This project involved thorough data cleaning, outlier analysis, and feature scaling before applying K-Means clustering.
+Both Elbow Method and Silhouette Score were used to determine the optimal number of clusters.
+Clusters were visualized using 3D scatter plots and violin plots to understand purchasing patterns.
+Insights were synthesized in two reports—one focusing on Cluster Profiles and another on Outlier Analysis—each with action-based recommendations tailored to customer value and engagement.
+
