@@ -19,3 +19,16 @@ The visualization takes place in Power BI with 3 interactive dashboards for Sale
 
 **🔗 Download PBIX**: [sales-dashboard.pbix](./pbix/sales-dashboard.pbix)
 
+## 📊 Call Center Dashboard
+
+**Tools**:  Power BI, DAX  
+**Description**: Built an interactive dashboard analyzing call center performance. 
+Offering a dashboard for the Customer Support Operations to help understand the performance by filtering through the agents, support ticket topics, date of ticket submission.
+
+**📷 Preview**:  
+![Call Center Dashboard](./screenshots/Call Center.png)  
+
+
+**🔗 Download PBIX**: [sales-dashboard.pbix](./pbix/Call Center Dashboard.pbix)
+
+
