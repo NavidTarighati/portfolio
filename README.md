@@ -40,5 +40,5 @@ This project focuses on querying the database to perform detailed analyses acros
 
 The insights were synthesized into a structured report highlighting patterns in customer behavior, category profitability, seasonal revenue trends, and RFM-based segmentation. Key metrics such as top-performing films, loyal customers, peak months, and underperforming inventory were identified to support strategic decision-making.
 
-**🔗 Download Report**: [Insights and actions.pdf](./reports/Insights and actions.pdf) <br>
+**🔗 Download Report**:  [Insights and actions.pdf](./reports/Insights%20and%20actions.pdf) <br>
 **🔗 Download SQL**: [movie_rentals_analysis.sql](./SQL/movie_rentals_analysis.sql)
