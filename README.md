@@ -52,7 +52,7 @@ Both Elbow Method and Silhouette Score were used to determine the optimal number
 Clusters were visualized using 3D scatter plots and violin plots to understand purchasing patterns.
 Insights were synthesized in two reports—one focusing on Cluster Profiles and another on Outlier Analysis—each with action-based recommendations tailored to customer value and engagement.
 
-**🔗 Download Notebook**: [Kmeans Clustering.py](./notebooks/Kmeans Clustering.py)
-**🔗 Download Cluster Analysis Report**: [Cluster Analysis.pdf](./reports/Cluster_analysis.pdf)
+**🔗 Download Notebook**: [Kmeans Clustering.py](./notebooks/Kmeans Clustering.py) <br>
+**🔗 Download Cluster Analysis Report**: [Cluster Analysis.pdf](./reports/Cluster_analysis.pdf) <br>
 **🔗 Download Outlier Analysis Report**: [Outlier Analysis.pdf](./reports/Outlier_Analysis.pdf)
 
