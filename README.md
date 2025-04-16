@@ -3,6 +3,17 @@
 Welcome to my data portfolio. Below are selected projects that showcase my experience in analytics and BI tools.
 
 ---
+## 📊 Revenue & Customer Insights – Movie Rental Business
+
+**Tools**: SQL Server  <br>
+**Description**: An analysis and report for actions and insights to help the business. 
+Conducted a comprehensive data analysis project on a movie rental business using SQL Server, with the goal of uncovering actionable business insights.
+This project focuses on querying the database to perform detailed analyses across key operational areas including Film & Category Performance, Customer Value, Inventory Usage, Store & Staff Productivity, and Geographic & Temporal Trends.
+
+The insights were synthesized into a structured report highlighting patterns in customer behavior, category profitability, seasonal revenue trends, and RFM-based segmentation. Key metrics such as top-performing films, loyal customers, peak months, and underperforming inventory were identified to support strategic decision-making.
+
+**🔗 Download Report**:  [Insights and actions.pdf](./reports/Insights%20and%20actions.pdf) <br>
+**🔗 Download SQL**: [movie_rentals_analysis.sql](./SQL/movie_rentals_analysis.sql)
 
 ## 📊 Sales Intelligence Dashboard Suite
 **Tools**: Tableau Desktop Professional, Tableau Public  
@@ -42,17 +53,7 @@ Offering a dashboard for the Customer Support Operations to help understand the 
 
 **🔗 Download PBIX**: [Call-Center-dashboard.pbix](./pbix/Call_Center_Dashboard.pbix)
 
-## 📊 Revenue & Customer Insights – Movie Rental Business
 
-**Tools**: SQL Server  <br>
-**Description**: An analysis and report for actions and insights to help the business. 
-Conducted a comprehensive data analysis project on a movie rental business using SQL Server, with the goal of uncovering actionable business insights.
-This project focuses on querying the database to perform detailed analyses across key operational areas including Film & Category Performance, Customer Value, Inventory Usage, Store & Staff Productivity, and Geographic & Temporal Trends.
-
-The insights were synthesized into a structured report highlighting patterns in customer behavior, category profitability, seasonal revenue trends, and RFM-based segmentation. Key metrics such as top-performing films, loyal customers, peak months, and underperforming inventory were identified to support strategic decision-making.
-
-**🔗 Download Report**:  [Insights and actions.pdf](./reports/Insights%20and%20actions.pdf) <br>
-**🔗 Download SQL**: [movie_rentals_analysis.sql](./SQL/movie_rentals_analysis.sql)
 
 ## 📊 Customer Segmentation with K-Means – Online Retail II Dataset
 
