@@ -1,6 +1,6 @@
 # Navid Tarighati – Portfolio
 
-Welcome to my data portfolio. Below are selected projects that showcase my experience in analytics, customer success, and BI tools.
+Welcome to my data portfolio. Below are selected projects that showcase my experience in analytics and BI tools.
 
 ---
 
