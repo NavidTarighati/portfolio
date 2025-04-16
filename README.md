@@ -16,8 +16,9 @@ Each dashboard presents **key performance metrics** alongside **three visualizat
 The visualizations are powered by **Dynamic Zone Visibility**, allowing users to seamlessly swap between charts for deeper analysis and interactivity.
 
 **📷 Preview**:  
-[Profit & Sales Dashboard](https://public.tableau.com/shared/62HH5D5BR?:display_count=n&:origin=viz_share_link)
-[Customer Dashboard](https://public.tableau.com/views/Customer-Dashboard_17447706185050/CustomerOverView?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Profit & Sales Dashboard](https://public.tableau.com/shared/62HH5D5BR?:display_count=n&:origin=viz_share_link) <br>
+[Customer Dashboard](https://public.tableau.com/views/Customer-Dashboard_17447706185050/CustomerOverView?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
+[Product Dashboard](https://public.tableau.com/views/Product-Dashboard/ProductDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Insurance Claim Prediction
 
