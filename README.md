@@ -56,3 +56,12 @@ Insights were synthesized in two reports—one focusing on Cluster Profiles and 
 **🔗 Download Cluster Analysis Report**: [Cluster Analysis.pdf](./reports/Cluster_analysis.pdf) <br>
 **🔗 Download Outlier Analysis Report**: [Outlier Analysis.pdf](./reports/Outlier_Analysis.pdf)
 
+## 📊 Customer Churn Dashboard
+**Tools**:  Power BI, DAX  
+**Description**: Built an interactive dashboard analyzing customer churn statistics 
+Offering a dashboard for the Customer Support Operations to help understand the performance by filtering through the agents, support ticket topics, date of ticket submission.
+
+**📷 Preview**:  
+[Customer Churn Dashboard](./screenshots/churn_dashboard.png)
+
+**🔗 Download PBIX**: [Customer_ churn_dashboard.pbix](./pbix/Churn_Dashboard.pbix)
