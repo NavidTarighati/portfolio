@@ -17,11 +17,6 @@ The visualizations are powered by **Dynamic Zone Visibility**, allowing users to
 
 **📷 Preview**:  
 [Profit & Sales Dashboard](https://public.tableau.com/shared/62HH5D5BR?:display_count=n&:origin=viz_share_link)
-[Product Details](./screenshots/product-details.png)  
-[Customer Details](./screenshots/customer-details.png)
-
-**🔗 Download PBIX**: [sales-dashboard.pbix](./pbix/sales-dashboard.pbix) <br>
-**🔗 Download SQL**: [sales-analysis.sql](./SQL/analysis.sql)
 
 
 
