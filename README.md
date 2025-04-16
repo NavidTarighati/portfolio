@@ -58,8 +58,7 @@ Insights were synthesized in two reports—one focusing on Cluster Profiles and 
 
 ## 📊 Customer Churn Dashboard
 **Tools**:  Power BI, DAX  
-**Description**: Built an interactive dashboard analyzing customer churn statistics 
-Offering a dashboard for the Customer Support Operations to help understand the performance by filtering through the agents, support ticket topics, date of ticket submission.
+**Description**: Developed an interactive dashboard to analyze customer churn patterns for a telecom company. The dashboard enables dynamic filtering by Payment Method, Gender, Partner Status, and Contract Type, offering granular insights into customer behavior.
 
 **📷 Preview**:  
 [Customer Churn Dashboard](./screenshots/churn_dashboard.png)
