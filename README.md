@@ -23,10 +23,7 @@ The visualizations are powered by **Dynamic Zone Visibility**, allowing users to
 **🔗 Download PBIX**: [sales-dashboard.pbix](./pbix/sales-dashboard.pbix) <br>
 **🔗 Download SQL**: [sales-analysis.sql](./SQL/analysis.sql)
 
-## 📊 Insurance Claim Prediction
 
-**Tools**: python(pandas, seaborn, sklearn)  
-**Description**: This project builds a logistic regression model to predict insurance claims using a cleaned and preprocessed dataset. Data preparation involved handling missing values, transforming features, addressing outliers, and encoding categorical variables. Forward feature selection identified the top predictors, and multiple models were evaluated using 5-fold cross-validation on key metrics like precision, recall, and F1-score. The best-performing model was trained on scaled features using RobustScaler. Both the trained model and the scaler were saved as pickle files for streamlined deployment and future predictions.
 
 ## 📊 Insurance Claim Prediction
 
