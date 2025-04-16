@@ -20,6 +20,16 @@ The visualization takes place in Power BI with 3 interactive dashboards for Sale
 **🔗 Download PBIX**: [sales-dashboard.pbix](./pbix/sales-dashboard.pbix) <br>
 **🔗 Download SQL**: [sales-analysis.sql](./SQL/analysis.sql)
 
+## 📊 Insurance Claim Prediction
+
+**Tools**: python(pandas, seaborn, sklearn)  
+**Description**: This project builds a logistic regression model to predict insurance claims using a cleaned and preprocessed dataset. Data preparation involved handling missing values, transforming features, addressing outliers, and encoding categorical variables. Forward feature selection identified the top predictors, and multiple models were evaluated using 5-fold cross-validation on key metrics like precision, recall, and F1-score. The best-performing model was trained on scaled features using RobustScaler. Both the trained model and the scaler were saved as pickle files for streamlined deployment and future predictions.
+
+**🔗 Download Report**:  [Report](./reports/Report.pdf) <br>
+**🔗 Download Model Training Notebook**: [Training.py](.notebooks/Training.py) <br>
+**🔗 Download Scaling Pickle**: [Scaling_pickle.pkl](./notebooks/best_model_scaler.pkl) <br>
+**🔗 Download Best Model Pickle**: [Best_model.pkl](./notebooks/best_model_logistic_regression.pkl) <br>
+**🔗 Download Production Notebook**: [Production.py](./notebooks/Production.py)
 ## 📊 Call Center Dashboard
 
 **Tools**:  Power BI, DAX  
