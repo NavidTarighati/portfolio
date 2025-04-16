@@ -53,7 +53,19 @@ Offering a dashboard for the Customer Support Operations to help understand the 
 
 **🔗 Download PBIX**: [Call-Center-dashboard.pbix](./pbix/Call_Center_Dashboard.pbix)
 
+## 📊 Adidas Sales Dashboard
+**Tools**: Tableau Public
+**Description**: A single-page interactive sales dashboard built using Tableau to analyze Adidas sales data. Users can filter the view by product, region, and year of invoice. The dashboard presents key sales insights through:
 
+- A line chart tracking monthly sales trends
+- A bar chart showing top retailers by total sales
+- A map of the U.S. visualizing state-wise sales distribution
+- A donut chart breaking down sales by method (In-store, Outlet, Online)
+
+Retailers and states also act as interactive filters, enabling quick drilldowns into specific segments. This dashboard supports performance monitoring and strategic decision-making by highlighting regional and channel-based sales patterns.
+
+**📷 Preview**:  
+[Adidas Sales Dashboard](https://public.tableau.com/views/AdidasSalesDash_17447725899410/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Customer Segmentation with K-Means – Online Retail II Dataset
 
