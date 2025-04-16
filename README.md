@@ -17,8 +17,7 @@ The visualizations are powered by **Dynamic Zone Visibility**, allowing users to
 
 **📷 Preview**:  
 [Profit & Sales Dashboard](https://public.tableau.com/shared/62HH5D5BR?:display_count=n&:origin=viz_share_link)
-
-
+[Customer Dashboard](https://public.tableau.com/views/Customer-Dashboard_17447706185050/CustomerOverView?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Insurance Claim Prediction
 
