@@ -4,16 +4,19 @@ Welcome to my data portfolio. Below are selected projects that showcase my exper
 
 ---
 
-## 📊 Sales Dashboard – AdventureWorksDW2022
+## 📊 Sales Intelligence Dashboard Suite
+**Tools**: Tableau Desktop Professional, Tableau Public  
 
-**Tools**: SQL Server, Power BI, DAX  
-**Description**: Built an interactive dashboard analyzing product and sales performance. 
-This two part project starts with querying the dataset for Performance Analysis, Customer Analysis, Inventory Analysis, Profitability Analysis, Employee Analysis and Marketing Analysis.
-Following this step, a view is created to use for visualization. 
-The visualization takes place in Power BI with 3 interactive dashboards for Sales Overview, Customer Details and Product Details.
+This Tableau project includes **three dashboards** focused on:
+- 📈 Profit & Sales Analysis  
+- 📦 Product Performance  
+- 👥 Customer Insights
+
+Each dashboard presents **key performance metrics** alongside **three visualizations**, which can be dynamically toggled using a custom navigation menu.  
+The visualizations are powered by **Dynamic Zone Visibility**, allowing users to seamlessly swap between charts for deeper analysis and interactivity.
 
 **📷 Preview**:  
-[Sales Overview](./screenshots/sales-overview.png)  
+[Profit & Sales Dashboard](https://public.tableau.com/shared/62HH5D5BR?:display_count=n&:origin=viz_share_link)
 [Product Details](./screenshots/product-details.png)  
 [Customer Details](./screenshots/customer-details.png)
 
@@ -25,11 +28,17 @@ The visualization takes place in Power BI with 3 interactive dashboards for Sale
 **Tools**: python(pandas, seaborn, sklearn)  
 **Description**: This project builds a logistic regression model to predict insurance claims using a cleaned and preprocessed dataset. Data preparation involved handling missing values, transforming features, addressing outliers, and encoding categorical variables. Forward feature selection identified the top predictors, and multiple models were evaluated using 5-fold cross-validation on key metrics like precision, recall, and F1-score. The best-performing model was trained on scaled features using RobustScaler. Both the trained model and the scaler were saved as pickle files for streamlined deployment and future predictions.
 
+## 📊 Insurance Claim Prediction
+
+**Tools**: python(pandas, seaborn, sklearn)  
+**Description**: This project builds a logistic regression model to predict insurance claims using a cleaned and preprocessed dataset. Data preparation involved handling missing values, transforming features, addressing outliers, and encoding categorical variables. Forward feature selection identified the top predictors, and multiple models were evaluated using 5-fold cross-validation on key metrics like precision, recall, and F1-score. The best-performing model was trained on scaled features using RobustScaler. Both the trained model and the scaler were saved as pickle files for streamlined deployment and future predictions.
+
 **🔗 Download Report**:  [Report](./reports/Report.pdf) <br>
 **🔗 Download Model Training Notebook**: [Training.py](.notebooks/Training.py) <br>
 **🔗 Download Scaling Pickle**: [Scaling_pickle.pkl](./notebooks/best_model_scaler.pkl) <br>
 **🔗 Download Best Model Pickle**: [Best_model.pkl](./notebooks/best_model_logistic_regression.pkl) <br>
 **🔗 Download Production Notebook**: [Production.py](./notebooks/Production.py)
+
 ## 📊 Call Center Dashboard
 
 **Tools**:  Power BI, DAX  
