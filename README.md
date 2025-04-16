@@ -43,7 +43,7 @@ Offering a dashboard for the Customer Support Operations to help understand the 
 
 ## 📊 Revenue & Customer Insights – Movie Rental Business
 
-**Tools**: SQL Server  
+**Tools**: SQL Server  <br>
 **Description**: An analysis and report for actions and insights to help the business. 
 Conducted a comprehensive data analysis project on a movie rental business using SQL Server, with the goal of uncovering actionable business insights.
 This project focuses on querying the database to perform detailed analyses across key operational areas including Film & Category Performance, Customer Value, Inventory Usage, Store & Staff Productivity, and Geographic & Temporal Trends.
